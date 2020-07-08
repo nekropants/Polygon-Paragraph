@@ -1,0 +1,1 @@
+A tool that generates paragraphs conforming to a user defined polygon.
